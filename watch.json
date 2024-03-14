@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Rolex Submariner",
+    "prize": "$8,000"
+  },
+  {
+    "id": 2,
+    "name": "Omega Speedmaster Professional",
+    "prize": "$5,000"
+  },
+  {
+    "id": 3,
+    "name": "TAG Heuer Carrera",
+    "prize": "$3,500"
+  },
+  {
+    "id": 4,
+    "name": "Seiko Presage Cocktail Time",
+    "prize": "$400"
+  },
+  {
+    "id": 5,
+    "name": "Breitling Navitimer",
+    "prize": "$6,500"
+  },
+  {
+    "id": 6,
+    "name": "Patek Philippe Nautilus",
+    "prize": "$30,000"
+  },
+  {
+    "id": 7,
+    "name": "Audemars Piguet Royal Oak",
+    "prize": "$50,000"
+  },
+  {
+    "id": 8,
+    "name": "Panerai Luminor",
+    "prize": "$10,000"
+  },
+  {
+    "id": 9,
+    "name": "Hublot Big Bang",
+    "prize": "$15,000"
+  },
+  {
+    "id": 10,
+    "name": "IWC Portugieser",
+    "prize": "$7,000"
+  },
+  {
+    "id": 11,
+    "name": "Tissot Le Locle",
+    "prize": "$600"
+  },
+  {
+    "id": 12,
+    "name": "Casio G-Shock",
+    "prize": "$150"
+  },
+  {
+    "id": 13,
+    "name": "Fossil Grant",
+    "prize": "$200"
+  },
+  {
+    "id": 14,
+    "name": "Timex Expedition",
+    "prize": "$50"
+  },
+  {
+    "id": 15,
+    "name": "Citizen Eco-Drive",
+    "prize": "$250"
+  },
+  {
+    "id": 16,
+    "name": "Bulova Precisionist",
+    "prize": "$300"
+  },
+  {
+    "id": 17,
+    "name": "Emporio Armani Connected",
+    "prize": "$350"
+  },
+  {
+    "id": 18,
+    "name": "Movado Museum Classic",
+    "prize": "$600"
+  },
+  {
+    "id": 19,
+    "name": "Skagen Hagen",
+    "prize": "$175"
+  },
+  {
+    "id": 20,
+    "name": "Hamilton Khaki Field",
+    "prize": "$500"
+  },
+  {
+    "id": 21,
+    "name": "Citizen Promaster",
+    "prize": "$300"
+  },
+  {
+    "id": 22,
+    "name": "Casio Pro Trek",
+    "prize": "$200"
+  },
+  {
+    "id": 23,
+    "name": "Garmin Fenix 6",
+    "prize": "$600"
+  },
+  {
+    "id": 24,
+    "name": "Suunto 9 Baro",
+    "prize": "$500"
+  },
+  {
+    "id": 25,
+    "name": "Fitbit Versa",
+    "prize": "$200"
+  },
+  {
+    "id": 26,
+    "name": "Samsung Galaxy Watch",
+    "prize": "$300"
+  },
+  {
+    "id": 27,
+    "name": "Apple Watch Series 6",
+    "prize": "$400"
+  },
+  {
+    "id": 28,
+    "name": "Garmin Forerunner 945",
+    "prize": "$600"
+  },
+  {
+    "id": 29,
+    "name": "Polar Vantage V2",
+    "prize": "$500"
+  },
+  {
+    "id": 30,
+    "name": "Fitbit Charge 5",
+    "prize": "$200"
+  }
+]
